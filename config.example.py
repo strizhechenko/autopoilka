@@ -4,7 +4,7 @@
 # vim config.py
 
 url = 'https://rodniki-urala.ru'
-assert False, 'Please, configure you auth after this line'
+assert False, 'Please, configure your auth after this line'
 user = 'your@email'
 secret = 'your_password'
 phone = 'your_phone'
